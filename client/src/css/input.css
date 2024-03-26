@@ -1,0 +1,41 @@
+.input{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 20px 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.title-h2{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn-save{
+  background-color: #72f630;
+  padding: 10px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bolder;
+}
+
+input{
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  width: 75%;
+}
+
+.search{
+  display: flex;
+}
+
+.search-input{
+    width: 80%;
+    margin-right:10px;
+    padding: 5px 
+}
