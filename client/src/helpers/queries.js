@@ -1,4 +1,4 @@
-const uri = "http://localhost:4001/api/tareas";
+const uri = import.meta.env.VITE_API_TAREAS;
 
 //Get tareas 
 
